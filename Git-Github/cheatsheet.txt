@@ -1,0 +1,22 @@
+git init → inicializas un repositorio local
+ls -a → ver carpeta oculta
+Configurar usuario:
+git config --global user.name usuario
+git config --global user.email correo
+
+git remote add origin Link_reporemoto 
+
+git add . (todo lo que hay en el Working directory)
+git add archivo
+git log → ver último commit
+git status → estado de los archivos
+git commit -m “Mensaje”
+
+rm -r carpeta
+rm -rf .git remover repo
+
+git push origin main→ subir archivos en una rama, todos los commits que había creado puedo subirlos a una copia del repositorio de github
+
+git pull origin main → siempre porque el origin main es el repo remoto
+
+
