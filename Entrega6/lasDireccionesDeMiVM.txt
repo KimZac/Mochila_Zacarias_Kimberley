@@ -1,0 +1,7 @@
+IP privada: 10.0.2.15
+IP pública: 187.190.157.137
+MAC:  08:00:27:82:6c:40
+
+¿Es diferente a la IP pública y privada de nuestra máquina host?
+
+La IP pública se conserva en mi computadora personal y la máquina virtual; sin emabrgo, la IP privada sí cambia totalmente.
